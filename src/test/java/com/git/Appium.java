@@ -12,5 +12,11 @@ public class Appium {
 		
 	}
 
+	@Test
+	public void appiu2_develop_branch() {
+		
+		System.out.println("pushing appiu2_develop_branch method from Original DIR branch");
+		
+	}
 
 }
