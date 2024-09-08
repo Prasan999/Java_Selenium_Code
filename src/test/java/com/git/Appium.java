@@ -18,5 +18,13 @@ public class Appium {
 		System.out.println("pushing appiu2_develop_branch method from Original DIR branch");
 		
 	}
+	
+	@Test
+	public void finalCommit() {
+		
+		System.out.println("pushing final commit method from Original DIR branch");
+		
+	}
+
 
 }
